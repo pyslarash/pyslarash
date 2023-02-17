@@ -1,14 +1,8 @@
 <img align="center" alt="Alex Pyslarash" src="https://pyslarash.com/wp-content/uploads/2023/02/download.png">
 
-###
-
 👋 Hey there! Welcome to my GitHub page! I'm a beginner full-stack developer who loves turning ideas into reality. With knowledge in HTML/CSS, JavaScript, React.js, Python, and SQL, I'm always on the lookout for new challenges to take on. 🚀 After completing the 4Geeks Academy bootcamp, I'm now gearing up to tackle C++ so that I can start building VST plugins for fellow music lovers 🎵. When I'm not coding, you can find me playing guitar 🎸, exploring new coffee shops ☕️, and working on side-hustles💡. Let's connect and collaborate on some exciting projects!
 
-###
-
-|||---|||
-
-####<h3 align="left">Let's connect:</h3>
+<h3 align="left">Let's connect:</h3>
 
 <a href="https://www.linkedin.com/in/pyslarash/" target="_blank">
   
@@ -22,8 +16,9 @@
   
 </a>
 
-
-
+<div align="center">
+    <table >
+     <tr><td>
 <h3 align="left">Languages I know:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,9 +39,16 @@
 <h3 align="left">Preferred Operation System:</h3>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+       
+</td>
+</tr>
+<tr>
+<td>
 
-####[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyslarash)](https://github.com/pyslarash/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyslarash)](https://github.com/pyslarash/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyslarash)](https://github.com/pyslarash/github-readme-stats)
-
-|||---|||
+  
+</td>
+</tr>
+  </table>
