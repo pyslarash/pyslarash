@@ -8,7 +8,7 @@
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
-<a href="[your link](https://www.linkedin.com/in/pyslarash/)" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pyslarash/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyslarash)](https://github.com/pyslarash/github-readme-stats)
