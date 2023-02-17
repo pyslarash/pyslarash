@@ -3,7 +3,7 @@
 👋 Hey there! Welcome to my GitHub page! I'm a beginner full-stack developer who loves turning ideas into reality. With knowledge in HTML/CSS, JavaScript, React.js, Python, and SQL, I'm always on the lookout for new challenges to take on. 🚀 After completing the 4Geeks Academy bootcamp, I'm now gearing up to tackle C++ so that I can start building VST plugins for fellow music lovers 🎵. When I'm not coding, you can find me playing guitar 🎸, exploring new coffee shops ☕️, and working on side-hustles💡. Let's connect and collaborate on some exciting projects!
 
 <div align="center">
-    <table border="0">
+    <table border="none">
      <tr><td>
 
 <h3 align="left">Let's connect:</h3>
