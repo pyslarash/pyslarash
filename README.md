@@ -6,6 +6,11 @@
 
 ###
 
+<h3 align="left">Let's connect:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://github.com/pyslarash/pyslarash/edit/main/README.mdhttps://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
+</p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyslarash)](https://github.com/pyslarash/github-readme-stats)
 
 <!--
