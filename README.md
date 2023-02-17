@@ -42,7 +42,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
        
 </td>
-<td>
+<td align="right">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyslarash)](https://github.com/pyslarash/github-readme-stats)
 
