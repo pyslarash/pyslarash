@@ -11,6 +11,15 @@
 <a href="https://www.linkedin.com/in/pyslarash/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages I know:</h3>
+<p align="left">
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyslarash)](https://github.com/pyslarash/github-readme-stats)
 
 <!--
