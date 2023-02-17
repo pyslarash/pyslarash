@@ -7,20 +7,6 @@
     <table style="border-collapse: collapse; border: none;">
      <tr><td>
 
-<h3 align="left">Let's connect:</h3>
-
-<a href="https://www.linkedin.com/in/pyslarash/" target="_blank">
-  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  
-</a>
-
-<a href="https://www.instagram.com/pyslarash/" target="_blank">
-  
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-  
-</a>
-
 <h3 align="left">Languages I know:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
