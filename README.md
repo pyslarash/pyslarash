@@ -5,7 +5,7 @@ I'm a full-stack developer who loves turning ideas into reality. With knowledge 
 ## Let's connect and collaborate on some exciting projects!
 
 <a href="https://pyslarash.com/" target="_blank"><img align="left" src="https://pyslarash.com/github/resources/globe-solid.svg" height="30px" /></a>
-<a href="https://www.linkedin.com/in/pyslarash/" target="_blank"><img align="left" src="https://pyslarash.com/github/resources/linkedin.svg" height="30px" /></a>
+<a href="https://www.linkedin.com/in/pyslarash/" target="_blank"><img align="left" src="https://pyslarash.com/github/resources/linkedin-blue.svg" height="30px" /></a>
 <br/><br/>
 
 ### 💡 More about me:
