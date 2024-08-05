@@ -10,9 +10,9 @@ I'm a full-stack developer who loves turning ideas into reality. With knowledge 
 
 ### 💡 More about me:
 
-- 👨‍💻 I'm currently working on a project that will allow people to choose the best city to live in
+- 👨‍💻 I'm currently learning Java and working on a Python/Next.js project (with AI agent implementation) to manage affiliate websites
 - 🎸 During my free time I love writing music. Check out my latest song <a href="https://soundcloud.com/sashabonnmusic/omega">HERE</a>
-- 💼 I have a background in business and always work on side-hustles
+- 💼 I have a background in business and always work on side hustles
 - 🧭 I visited 48 US states and 4 Canadian provinces in addition to other countries
 - ☕️ I LOVE COFFEE!
 
